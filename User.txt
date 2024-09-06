@@ -1,0 +1,1 @@
+Get all the users from the data file
